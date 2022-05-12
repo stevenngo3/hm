@@ -1,6 +1,7 @@
 public class hms{
 
-// Take this to vscode
-
+    public static int sub(int n, int m){
+        return n-m;
+    }
 
 }
